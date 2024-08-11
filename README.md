@@ -13,5 +13,5 @@ Automated the following test cases:
   3. Verify the Two Sum problem
   4. Ensure the submissions tab displays "Register or Sign In"
      
-### Skill Used:
+### Skills Used:
 Selenium, Dynamic Xpaths
