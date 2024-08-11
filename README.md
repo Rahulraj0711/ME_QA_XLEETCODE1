@@ -8,7 +8,7 @@ During the course of this project automated Leetcode website to check and valida
 ## LeetCode Automation
 ### Scope of Work:
 Automated the following test cases:
-  1. Verify the Leetcode Homepage URL
+  1. Verify the Leetcode Homepage URL (https://leetcode.com/)
   2. Verify Problem Set URL and Display First 5 Questions
   3. Verify the Two Sum problem
   4. Ensure the submissions tab displays "Register or Sign In"
